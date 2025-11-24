@@ -1,0 +1,11 @@
+[project]
+name = "sonos-thing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "soco>=0.30.12",
+    "yt-dlp>=2024.11.4",
+]
